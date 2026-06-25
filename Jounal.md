@@ -1,5 +1,14 @@
 # Journal
 
+### 6/24/2026
+
+Finished main LED wiring. Added stabilizers in schematic, after researching how to change footprint size yesterday. Began adding level shifter logic to switch 3.3V logic for RPi Pico 2w to 5V logic that the LEDs require.
+
+<img width="1492" height="930" alt="image" src="https://github.com/user-attachments/assets/8a9af89d-6afb-4f5b-9cb8-d40535ad79a8" />
+
+Estimated Time Spent: 1.5 hours
+
+
 ### 6/23/2026
 
 Began wiring LEDs for backlighting, also began to plan stabilizer layouts.
